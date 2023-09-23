@@ -1,4 +1,2 @@
-# MongoDB
-
-some practice about the MongoDB.
-TBC...
+## MongoDB
+learning and practicing about MongoDB.
