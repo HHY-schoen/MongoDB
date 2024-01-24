@@ -7,11 +7,14 @@ Briefly discuss relationships using document embedding and foreign keys.
 - install python-dotenv
 
 ### Document model
-- Database -- Collections
--          -- Collections -- documents -- datas
--                         -- documents -- datas
+Database -- Collections
+
+         -- Collections -- documents -- datas
+         
+                        -- documents -- datas
+
 
 
 --------------------------------------
 refer:
-- https://www.youtube.com/watch?v=UpsZDGutpZc
+- https://www.youtube.com/watch?v=nYNAH8K_UhI
